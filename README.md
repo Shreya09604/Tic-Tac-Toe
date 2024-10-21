@@ -1,3 +1,3 @@
-![Screenshot 1](./screenshots/Screenshot 2024-10-11 021443.png)
-![Screenshot 2](./screenshots/Screenshot 2024-10-11 021532.png)
-![Screenshot 3](./screenshots/Screenshot 2024-10-11 021640.png)
+![Screenshot 1](./screenshots/Screenshot_2024-10-11_021443.png)
+![Screenshot 2](./screenshots/Screenshot_2024-10-11_021532.png)
+![Screenshot 3](./screenshots/Screenshot_2024-10-11_021640.png)
